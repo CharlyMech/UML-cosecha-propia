@@ -32,7 +32,7 @@ Cuando se tiene el modelo ya creado (imagen del apartado anterior) se accede al 
 
 Se selecciona el modelo que se quiere exportar, como se ve en la imagen, y se selecciona la carpeta de destino. Al final se podrá ver que están todas las clases anteriormente diseñadas en el diagrama.
 
-![Clases Java exportadas](Fotos/cosechaPropia.png "Clases Java exportadas")
+![Clases Java exportadas](Fotos/files.png "Clases Java exportadas")
 
 #### A tener en cuenta sobre StarUML
 
